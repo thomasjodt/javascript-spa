@@ -9,7 +9,7 @@ export default () => {
         </h1>
       </div>
       <div class="Header-nav" >
-        <a href="https://github.com/thomasjodt/javascript-spa" >
+        <a href="https://github.com/thomasjodt/javascript-spa" target="_blank" >
           View on Github
         </a>
       </div>
