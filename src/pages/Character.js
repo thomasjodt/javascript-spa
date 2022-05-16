@@ -1,4 +1,4 @@
-export const Character = () => {
+export default () => {
   const view = `
     <div class="Characters-inner" >
       <article class="Characters-card" >

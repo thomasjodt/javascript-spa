@@ -1,4 +1,4 @@
-export const Header = () => {
+export default () => {
   const view = `
     <div class="Header-main" >
       <div class="Header-logo" >
