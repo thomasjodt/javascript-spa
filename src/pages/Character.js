@@ -14,12 +14,12 @@ export default async() => {
       </article>
       
       <article class="Characters-card" >
-        <h3>Episodes: <span>${character.episode.length}</span></h3>
-        <h3>Status: <span>${character.status}</span></h3>
-        <h3>Specie: <span>${character.species}</span></h3>
-        <h3>Genre: <span>${character.gender}</span></h3>
-        <h3>Origin: <span>${character.origin.name}</span></h3>
-        <h3>Last Location: <span>${character.location.name}</span></h3>
+        <p><b>Episodes:</b> <span>${character.episode.length}</span></p>
+        <p><b>Status:</b> <span>${character.status}</span></p>
+        <p><b>Specie:</b> <span>${character.species}</span></p>
+        <p><b>Genre:</b> <span>${character.gender}</span></p>
+        <p><b>Origin:</b> <span>${character.origin.name}</span></p>
+        <p><b>Last Location:</b> <span>${character.location.name}</span></p>
       </article>
     </div>
   `

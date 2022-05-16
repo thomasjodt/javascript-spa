@@ -4,13 +4,13 @@ export default () => {
       <div class="Header-logo" >
         <h1>
           <a href="/" >
-            100tifi.co
+            Rick & Morty Visualizer
           </a>
         </h1>
       </div>
       <div class="Header-nav" >
         <a href="#/about/" >
-          About
+          View on Github
         </a>
       </div>
     </div>  
