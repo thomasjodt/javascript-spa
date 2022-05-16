@@ -1,2 +1,3 @@
-const hiya = 'Hello World'
-console.log(hiya)
+import router from "./routes"
+
+window.addEventListener('load', router)
